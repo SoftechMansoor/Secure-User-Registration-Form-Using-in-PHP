@@ -1,0 +1,1 @@
+Secure User Registration System using prepared system, Hashing Password and String Function. User password cannot be seen due to use of Hash. SQL injection can be avoided by use of Real escape  String Function and use of PDO.
